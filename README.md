@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kelly More
 #### Full Stack Software Engineer | Technical Writer | Developer :avocado:
-![Full Stack Software Engineer | Technical Writer | Developer :avocado:](https://images.unsplash.com/photo-1589652739890-77a7733b8a23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
+
 
 After gradating Uni with an undergrad in business, I became interested in the tech industry while working with startups overseas and in San Francisco. I knew that in order for me to contribute the utmost value, I would need to learn software development and computer science to help companies further succeed in their mission. I began the self-taught route a little over 2 years ago, and then enrolled in an immersive program where I learned how to work in cross functional teams, as well as lead them, while delivering results to project stakeholders.
 
