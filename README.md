@@ -12,6 +12,7 @@ When I'm not working I :
 
 ### My Values
 
+- Morality, Empathy, and Logic
 - Intellectual honesty
 - Making something people want
 
