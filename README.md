@@ -19,7 +19,7 @@ When I'm not working I :
 
 ### Things I'm Learning + Relearning This Year To Further My Career:
 
-- Data Analytics, Visualization, and Engineering 
+- Data Science 
 - API Design and Microservices 
 - Communication
 - Technical Writing
