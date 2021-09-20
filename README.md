@@ -19,10 +19,9 @@ When I'm not working I :
 
 ### Things I'm Learning + Relearning This Year To Further My Career:
 
-- Data Science 
+- Machine Learning
 - API Design and Microservices 
-- Communication
-- Technical Writing
+- System Design
 
 
 ### Getting in Touch 
