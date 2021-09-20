@@ -1,7 +1,7 @@
 
 # Hi all! 👋 
 
-I'm Kelly More — a full stack software engineer currently advocating for developers at an awesome fintech company during the day, and helping new coders fight imposter syndrome at night 🦸‍♀️ 
+I'm Kelly More — I currently work @Dwolla as a Developer Advocate full time and @MakeSoil as a Software Engineer and Data Scientist part time.
 
 When I'm not working I :
 
@@ -28,5 +28,5 @@ When I'm not working I :
 ### Getting in Touch 
 
 If you're new to coding or on the tech job hunt for the first time, I'd love to see you at one of my [Career Karma](https://careerkarma.com/events/) events! Otherwise, I'm most active on these platforms:
-- [Linkedin](https://www.linkedin.com/in/8fka3bv09w6v3k8d1l00g3s5g6j8csseroh67543hjnbvc/)
+- [Linkedin](https://www.linkedin.com/in/misskellymore/)
 - [Elpha](https://elpha.com/invite/from-KellyMore)
