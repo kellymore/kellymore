@@ -1,7 +1,7 @@
 
 # Hi all! 👋 
 
-I'm Kelly More — I currently work @Dwolla as a Developer Advocate full time and @MakeSoil as a Software Engineer and Data Scientist part time.
+I'm Kelly More — I currently work [Dwolla](https://www.dwolla.com/) as a Developer 🥑 full time and [MakeSoil](https://www.makesoil.org/map) as a Software Engineer and Data Scientist part time.
 
 When I'm not working I :
 
