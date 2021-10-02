@@ -1,12 +1,18 @@
 
 # Hi all! 👋 
 
-I'm Kelly More — I currently work at [Dwolla](https://www.dwolla.com/) as a Developer 🥑 full time and at [MakeSoil](https://www.makesoil.org/map) as a Software Engineer and Data Scientist part time.
+I'm Kelly More
+
+What I do:
+
+🥑 DevRel at [Dwolla](https://www.dwolla.com/) </br>
+👩‍💻 Software Engineering and Data Science at [MakeSoil](https://www.makesoil.org/map) </br>
+🤖 Machine Learning at [Earthshot Labs](https://earthshot.eco/) </br>
 
 When I'm not working I :
 
 👩‍🎨 Paint <br>
-🧘‍♀️ Practice Yin Yoga <br>
+🧘‍♀️ Yin Yoga <br>
 🏝 Beach
 
 
@@ -17,15 +23,13 @@ When I'm not working I :
 - Making something people want
 
 
-### Things I'm Learning + Relearning This Year To Further My Career:
+### Things I'm Focusing On This Year To Further My Career:
 
 - Machine Learning
-- API Design and Microservices 
-- System Design
+- Data Science  
+- System Design + Architecture 
 
 
 ### Getting in Touch 
 
-If you're new to coding or on the tech job hunt for the first time, I'd love to see you at one of my [Career Karma](https://careerkarma.com/events/) events! Otherwise, I'm most active on these platforms:
-- [Linkedin](https://www.linkedin.com/in/misskellymore/)
-- [Elpha](https://elpha.com/invite/from-KellyMore)
+Most active on [Linkedin](https://www.linkedin.com/in/misskellymore/)
