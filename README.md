@@ -5,14 +5,14 @@ I'm Kelly More
 
 What I do:
 
-🥑 DevRel at [Dwolla](https://www.dwolla.com/) </br>
-👩‍💻 Software Engineering and Data Science at [MakeSoil](https://www.makesoil.org/map) </br>
-🤖 Machine Learning at [Earthshot Labs](https://earthshot.eco/) </br>
+🥑 DevRel at [Roboflow](https://roboflow.com/) </br>
+👩🏽‍🔬 Data Science 4 All Community Leader at [CorrelationOne](https://www.correlation-one.com/)
 
 When I'm not working I :
 
 👩‍🎨 Paint <br>
 🧘‍♀️ Yin Yoga <br>
+🥊 Kickbox <br>
 🏝 Beach
 
 
@@ -26,8 +26,8 @@ When I'm not working I :
 ### Things I'm Focusing On This Year To Further My Career:
 
 - Machine Learning
-- Data Science  
-- System Design + Architecture 
+- Computer Vision
+- Writing a book based on my most popular workshop at [Career Karma](https://careerkarma.com/), "Job Search Hacks, Tips & Tricks. How To Land a Career in Tech"
 
 
 ### Getting in Touch 
