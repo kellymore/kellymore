@@ -13,14 +13,12 @@ When I'm not working I :
 👩‍🎨 Paint <br>
 🧘‍♀️ Yin Yoga <br>
 🥊 Kickbox <br>
-🏝 Beach
 
 
 ### My Values
 
 - Morality, Empathy, and Logic
 - Intellectual honesty
-- Making something people want
 
 
 ### Things I'm Focusing On This Year To Further My Career:
