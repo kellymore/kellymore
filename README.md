@@ -5,12 +5,12 @@ I'm Kelly More
 
 What I do:
 
-🥑 DevRel at [Roboflow](https://roboflow.com/) </br>
+Lead Developer 🥑 at [Ansys](https://www.ansys.com/) </br>
 👩🏽‍🔬 Data Science 4 All Community Leader at [CorrelationOne](https://www.correlation-one.com/)
 
 When I'm not working I :
 
-👩‍🎨 Paint <br>
+💆 Radical Self Care <br>
 🧘‍♀️ Yin Yoga <br>
 🥊 Kickbox <br>
 
@@ -23,8 +23,8 @@ When I'm not working I :
 
 ### Things I'm Focusing On This Year To Further My Career:
 
-- Machine Learning
-- Computer Vision
+- Starting a company
+- NLP
 - Writing a book based on my most popular workshop at [Career Karma](https://careerkarma.com/), "Job Search Hacks, Tips & Tricks. How To Land a Career in Tech"
 
 
