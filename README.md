@@ -5,7 +5,8 @@ I'm Kelly More
 
 What I do:
 
-Founder, Executive Director at [Sweet Trades](https://sweettrades.org/) | Senior Software Engineer at [Ansys](https://www.ansys.com/) </br>
+Founder, Executive Director at [Sweet Trades](https://sweettrades.org/) | Senior Software Engineer at [Ansys](https://www.ansys.com/) | Data Science @Argonne-National-Laboratory
+ </br>
 
 When I'm not working I :
 
