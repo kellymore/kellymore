@@ -23,6 +23,7 @@ When I'm not working I :
 
 ### Things I'm Focusing On This Year To Further My Career:
 
+- Working a lot.
 - Starting a company / non profit. Visit [sweettrades.org](https://sweettrades.org/) to learn how you can make an impact!
 - Writing a book based on my most popular workshop at [Career Karma](https://careerkarma.com/), "Job Search Hacks, Tips & Tricks. How To Land a Career in Tech"
 
